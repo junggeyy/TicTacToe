@@ -2,7 +2,7 @@
 A simple Tic-Tac-Toe game built with REACT and powered by a smart algorithm for a challenging gameplay.
 
 ## Live Demo 🚀
-🔗 Play the Game
+🔗 [Play the Game](https://junggeyy.github.io/TicTacToe/)
 
 ## 📌 Features
 
@@ -20,7 +20,7 @@ A simple Tic-Tac-Toe game built with REACT and powered by a smart algorithm for 
 ## 💻 Installation & Setup
 Make sure you have the following installed on your system: *Node.js and Git*
 
-**Clone the repository:** git clone https://github.com/junggeyy/tic-tac-toe.git<br>
+**Clone the repository:** git clone https://github.com/junggeyy/TicTacToe.git<br>
 **Go to the project directory:** cd tic-tac-toe<br>
 **Install dependencies:** npm install<br>
 **Start the development server:** npm start
