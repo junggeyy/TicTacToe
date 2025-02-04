@@ -27,12 +27,6 @@ Make sure you have the following installed on your system: *Node.js and Git*
 
 This will start a local development server at http://localhost:3000/.<br>
 
-## 📦 Deployment
-To deploy the game on GitHub Pages:
-npm run build
-
-Then follow the steps to push the build/ folder to GitHub Pages.
-
 ## 📜 License
 MIT License - Feel free to use and modify this project.
 
