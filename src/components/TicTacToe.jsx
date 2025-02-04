@@ -1,3 +1,4 @@
+import React from "react";
 import Board from "./Board"
 import { useState, useEffect } from "react";
 import GameOver from "./GameOver";

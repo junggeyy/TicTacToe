@@ -1,3 +1,4 @@
+import React from "react";
 import Tile from "./Tile";
 import Strike from "./Strike";
 function Board({ tiles, onTileClick, strikeClass }){
