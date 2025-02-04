@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/TicTacToe/static/css/main.47a33d50.chunk.css",
+    "main.js": "/TicTacToe/static/js/main.98112f5c.chunk.js",
+    "main.js.map": "/TicTacToe/static/js/main.98112f5c.chunk.js.map",
+    "runtime~main.js": "/TicTacToe/static/js/runtime~main.ae000fa4.js",
+    "runtime~main.js.map": "/TicTacToe/static/js/runtime~main.ae000fa4.js.map",
+    "static/js/2.e19d9236.chunk.js": "/TicTacToe/static/js/2.e19d9236.chunk.js",
+    "static/js/2.e19d9236.chunk.js.map": "/TicTacToe/static/js/2.e19d9236.chunk.js.map",
+    "index.html": "/TicTacToe/index.html",
+    "precache-manifest.48df36ee5c8685c8c238c60c42165773.js": "/TicTacToe/precache-manifest.48df36ee5c8685c8c238c60c42165773.js",
+    "service-worker.js": "/TicTacToe/service-worker.js",
+    "static/css/main.47a33d50.chunk.css.map": "/TicTacToe/static/css/main.47a33d50.chunk.css.map",
+    "static/media/App.css": "/TicTacToe/static/media/snake.544f858d.png",
+    "static/media/draw.wav": "/TicTacToe/static/media/draw.e4fb02c7.wav",
+    "static/media/lose.mp3": "/TicTacToe/static/media/lose.4a54ed97.mp3",
+    "static/media/tada.mp3": "/TicTacToe/static/media/tada.9bf439f7.mp3",
+    "static/media/tile.wav": "/TicTacToe/static/media/tile.5aac49f9.wav"
+  }
+}
