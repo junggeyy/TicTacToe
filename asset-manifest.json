@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TicTacToe/static/css/main.47a33d50.chunk.css",
+    "main.css": "/TicTacToe/static/css/main.82ffcf2e.chunk.css",
     "main.js": "/TicTacToe/static/js/main.98112f5c.chunk.js",
     "main.js.map": "/TicTacToe/static/js/main.98112f5c.chunk.js.map",
     "runtime~main.js": "/TicTacToe/static/js/runtime~main.ae000fa4.js",
@@ -8,9 +8,9 @@
     "static/js/2.e19d9236.chunk.js": "/TicTacToe/static/js/2.e19d9236.chunk.js",
     "static/js/2.e19d9236.chunk.js.map": "/TicTacToe/static/js/2.e19d9236.chunk.js.map",
     "index.html": "/TicTacToe/index.html",
-    "precache-manifest.48df36ee5c8685c8c238c60c42165773.js": "/TicTacToe/precache-manifest.48df36ee5c8685c8c238c60c42165773.js",
+    "precache-manifest.119fc3365d6da53c178161becd5e9671.js": "/TicTacToe/precache-manifest.119fc3365d6da53c178161becd5e9671.js",
     "service-worker.js": "/TicTacToe/service-worker.js",
-    "static/css/main.47a33d50.chunk.css.map": "/TicTacToe/static/css/main.47a33d50.chunk.css.map",
+    "static/css/main.82ffcf2e.chunk.css.map": "/TicTacToe/static/css/main.82ffcf2e.chunk.css.map",
     "static/media/App.css": "/TicTacToe/static/media/snake.544f858d.png",
     "static/media/draw.wav": "/TicTacToe/static/media/draw.e4fb02c7.wav",
     "static/media/lose.mp3": "/TicTacToe/static/media/lose.4a54ed97.mp3",
