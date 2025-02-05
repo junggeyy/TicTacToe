@@ -158,6 +158,7 @@ function TicTacToe(){
             return -1;
         };
     
+
         // computer tries to find a winning move first
         let move = findMove(Player_O);
         if (move !== -1) return move;
