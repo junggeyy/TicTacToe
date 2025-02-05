@@ -303,3 +303,83 @@ h1 {
 a{
   color: rgba(255, 255, 255, 0.5);
 }
+
+@media (max-width: 600px) {
+  .board {
+    width: 50vw; /* Allow it to shrink */
+    left: 5%;
+    max-width: 250px; /* Prevent it from becoming too large */
+    height: auto;
+    min-height: 150px;
+    position: relative;
+    grid-template-columns: repeat(3, 1fr); 
+    grid-template-rows: repeat(3, 1fr);
+  }
+  body::after {
+    width: 100%; /* Increase the size of the board image */
+    height: 80%;
+    background-size: contain;
+  }
+  /* Adjust title size for small screens */
+  h1 {
+    font-size: 12vw; /* Smaller but still responsive */
+    -webkit-text-stroke: #395c36 3.5px; /* Reduce stroke thickness */
+    top: 5%;
+  }
+  .container {
+    min-height: 100vh; /* Allow container to grow if needed */
+  }
+
+  /* Ensure game board scales down */
+  .game-container {
+    top: 50%;
+    width: 90%; /* Make it fit small screens */
+    
+  }
+
+  .turn-info {
+    position: relative; /* Stop absolute floating */
+    top: 19%;
+    left: 28%;
+    margin-top: 10px; /* Adjust spacing */
+    font-size: 0.85em; /* Keep it readable */
+    text-align: center; /* Ensure it stays centered */
+    z-index: 5;
+  }
+
+  /* Make tiles smaller */
+  .tile {
+    top: 20%;
+    font-size: 2.2em;
+  }
+
+  /* Adjust reset button */
+  .reset-button {
+    position: fixed; /* Keeps it in place */
+    bottom: 100px; /* Always at the bottom */
+    left: 50%; /* Center it */
+    transform: translateX(-50%);
+    width: 70%; /* Prevent it from shrinking too much */
+    font-size: 1.2em; /* Reduce font size slightly */
+    padding: 10px;
+    white-space: nowrap;
+  }
+
+  /* Fix credit position */
+  .credit {
+    right: 10px;
+    bottom: 5px;
+    font-size: 0.7em;
+  }
+
+  /* Stack mode selection buttons */
+  .mode-selection {
+    top: 300px;
+    flex-direction: column; /* Make buttons vertical */
+  }
+
+  .mode-selection button {
+    font-size: 16px;
+    padding: 10px 15px;
+  }
+}
